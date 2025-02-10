@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Color Extractor</string>
+    <string name="title_home">Hledání</string>
+    <string name="title_list">Seznam</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
